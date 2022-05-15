@@ -39,7 +39,7 @@
  * 최종 예측값에 지역명을 추가하기 위해 .pop( )을 사용하였다.
  * SVM과 Logistic regression에는 표준화를 진행하였다.
 
-## 모델
+# 모델
 ### Decision Tree
 * 하이퍼 파라미터는 max_depth, min_samples_leaf를 사용하였다.
 * for문을 통해 값을 바꿔가며 validation accuracy를 측정하여 pandas DataFrame으로 출력하였다.
