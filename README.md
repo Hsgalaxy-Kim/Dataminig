@@ -94,7 +94,7 @@
 * 모델링 할 때 y targe으로 continuous value를 다루기 쉽지 않아 평균값으로 대체한 점에서 데이터의 손실이 이루어질 수 있다.
 -> continuous value에 관한 새로운 모델 이용.
 
-* 전국 시군구의 데이터 수가 229개라 train, test, validation 세개로 나누었을 때, test, validation 데이터가 상대적으로 적어서 충분하지 못했다. -> (시군구 -> 읍면동까지 확장)
+* 전국 시군구의 데이터 수가 230개라 train, test, validation 세개로 나누었을 때, test, validation 데이터가 상대적으로 적어서 충분하지 못했다. -> (시군구 -> 읍면동까지 확장)
 
 # 참고자료
 * 두산백과 – 미세먼지 https://terms.naver.com/entry.naver?docId=1080596&cid=40942&categoryId=32412 
