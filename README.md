@@ -70,7 +70,9 @@
 * 최종 모델링을 한 다음(미세먼지, 오존 : C=0.01) test을 사용하여 confusion_matrix와 accuracy_score을 사용하여 정확도를 출력하였다. (정확도 미세먼지 : 74.14%, 오존 : 67.24%)
 * 예측값을 실제값과 지역을 추가하여 출력하였다.
 * 회귀계수와 상수항을 출력하였다. 회귀계수(미세먼지): [[-0.    -0.014  0.001  0.     0.    -0.    -0.002 -0.019 -0.016 -0.005]]  상수항: [-0.], 회귀계수(오존): [[-0.     0.005 -0.001 -0.    -0.     0.     0.001  0.007  0.005  0.002]]  상수항: [0.]
-### => SVM과 비슷한 결과를 출력하였다. 회귀계수를 통해 heavy_metal, traffic, wind_speed, wind_directoin, rainfall, 온도(C)가 어떻게 영향을 주는지 알 수 있었다. 나머지(num_of_factories, num_of_power_plants, num_of_people, household_waste_discharge_per_person (kg/days)) 큰 영향을 주지 않는다는것을 알 수 있다.
+### => SVM과 비슷한 결과를 출력하였다.
+### 회귀계수를 통해 heavy_metal, traffic, wind_speed, wind_directoin, rainfall, 온도(C)가 어떻게 영향을 주는지 알 수 있었다.
+### 나머지(num_of_factories, num_of_power_plants, num_of_people, household_waste_discharge_per_person (kg/days)) 큰 영향을 주지 않는다는것을 알 수 있다.
 
 ### Linear Regression
 * 모델을 생성하여 test을 하였다.
