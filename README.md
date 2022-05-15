@@ -96,9 +96,9 @@
   -> 시군구 -> 읍면동까지 넓히기
 
 # 참고자료
-두산백과 – 미세먼지 https://terms.naver.com/entry.naver?docId=1080596&cid=40942&categoryId=32412 
-두산백과 – 오존 https://terms.naver.com/entry.naver?docId=1128529&cid=40942&categoryId=32251 
-오존 분석배경 http://www.climate.go.kr/home/10_wiki/index.php/%EC%84%B1%EC%B8%B5%EA%B6%8C_%EC%98%A4%EC%A1%B4 
-https://blog.naver.com/momomo0505/221306912948 
-미세먼지 분석배경
+* 두산백과 – 미세먼지 https://terms.naver.com/entry.naver?docId=1080596&cid=40942&categoryId=32412 
+* 두산백과 – 오존 https://terms.naver.com/entry.naver?docId=1128529&cid=40942&categoryId=32251 
+* 오존 분석배경 ** http://www.climate.go.kr/home/10_wiki/index.php/%EC%84%B1%EC%B8%B5%EA%B6%8C_%EC%98%A4%EC%A1%B4 
+** https://blog.naver.com/momomo0505/221306912948 
+* 미세먼지 분석배경
 https://www.yeongnam.com/web/view.php?key=20211129010003519 
